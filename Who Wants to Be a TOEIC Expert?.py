@@ -449,11 +449,11 @@
         </div>
         
         <div class="signature">
-            &copy; 2025 Daniel Rojas :: TΣʃ ::  &#9993; <a href="mailto:unitedartistsinstitute@gmail.com">unitedartistsinstitute@gmail.com</a>
+            &copy; 2025 Daniel Rojas :: TΣʃ ::  &#9993; <a href="mailto:CVO@tesh.pro">CVO@tesh.pro</a>
         </div>
     `;
     
-    // Re-enable lifelines
+    
     document.getElementById('lifeline5050').disabled = false;
     document.getElementById('lifelineAudience').disabled = false;
     document.getElementById('lifelinePhone').disabled = false;
@@ -468,7 +468,7 @@
                 <p>Congratulations on completing the TOEIC Millionaire Challenge!</p>
                 <button class="reset-button" id="resetButton" onclick="resetGame()">Play Again</button>
                 <div class="signature">
-                    &copy; 2025 Daniel Rojas :: TΣʃ :: &#9993; <a href="mailto:unitedartistsinstitute@gmail.com">unitedartistsinstitute@gmail.com</a>
+                    &copy; 2025 Daniel Rojas :: TΣʃ :: &#9993; <a href="mailto:CVO@tesh.pro">CVO@tesh.pro</a>
                 </div>
             `;
         }
